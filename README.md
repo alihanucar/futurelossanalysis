@@ -10,7 +10,7 @@ Derivatives Market (VIOP) is the market where derivatives contracts are traded o
 
 ## future_loss_analysis() function:
 
-***future_loss_analysis()*** function performs a simulation of a future investment in the USDTRY currency pair. The purpose of the simulation is to analyze the potential loss of the investment under different price scenarios.
+***future_loss_analysis()*** function performs a simulation of a future derivative investment in the USDTRY currency pair. The purpose of the simulation is to analyze the potential loss of the investment under different price scenarios.
 
 The function takes in 3 inputs:
 
