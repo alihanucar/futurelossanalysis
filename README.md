@@ -19,3 +19,8 @@ contract_amount: the number of contracts bought.
 current_contract_price: the current market price of the contract.
 
 The simulation works by decreasing the contract price by 0.05 at each iteration until the amount of the contracts reaches 0. At each iteration, the function calculates various metrics such as the initial investment, total capital, contract size in USD, the total size of the investment in TRY. These metrics are stored in a Pandas DataFrame and the final result is returned by the function. The resulting DataFrame is then saved to an Excel file. You can easily edit the code for different future contracts with different amount of contracts.
+
+
+## Update of the code with version 2:
+
+I updated the code following my friend Quentin's recommendation to clear depreciation errors and added comments to improve its readability.
