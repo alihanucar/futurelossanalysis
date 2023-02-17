@@ -1,4 +1,4 @@
-# Future Contract Loss Analysis - VIOP Derivatives Market in Istanbul Stock Exchange
+# Futures Contract Loss Analysis - VIOP Derivatives Market in Istanbul Stock Exchange
 
 
 
